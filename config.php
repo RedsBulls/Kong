@@ -6,5 +6,5 @@
     define("ADMIN_PASS","admin");
     global $type;
 
-
+// Третий тест
 ?>

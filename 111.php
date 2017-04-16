@@ -23,6 +23,6 @@
     <a class="btn btn-primary btn-large" href="#myModal" data-toggle="modal">Запустить демонстрацию модального элемента</a>
 
     </div> 
-    
+
 </body>
 </html>
