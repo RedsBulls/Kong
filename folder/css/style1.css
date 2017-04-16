@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+
+
+
+.popup{
+
+  
+
+    position: fixed;
+
+    visibility: hidden;
+    z-index: 999999;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+.popup form {
+    padding: 0 27px 20px;
+
+    border-top: 40px solid #72bffc;
+}
+
+.popup form input {
+
+    margin-top: 8px;
+
+}
+
+
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 0;
+/*    cursor: default;*/
+    left: 0;
+    opacity: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+    z-index: 99999;
+    -webkit-transition: opacity .5s;
+    -moz-transition: opacity .5s;
+    -ms-transition: opacity .5s;
+    -o-transition: opacity .5s;
+    transition: opacity .5s;
+}
+
+.close_modal form textarea{
+    display: block;
+    float: left;
+}
