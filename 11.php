@@ -50,4 +50,6 @@
 //else
 
 ?>
+
+// ТЕст отправки сообщенией
 <iframe>tygtgtgt<a href="images/1.png"><img src="images/1.png" width="10px" height="10px"> </a></iframe> 
